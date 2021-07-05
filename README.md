@@ -9,5 +9,4 @@ track of my progress through all of my journey as a programmer!
 
 Go with npm install and npm start commands!
 
-![Image of pokemon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxXuaCaNm0CF4e3xyXGAhDWvItlgq7Kv5Xsg&usqp=CAU)
 ![Image of Pokemon](https://play-lh.googleusercontent.com/GU2izEZOquAFv6oKKibJyq6yUYHaGSoiia6_A-K3RQ3Li56tMDTWoPdFxEotmjKVsuo)
