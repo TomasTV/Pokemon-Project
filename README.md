@@ -1,6 +1,6 @@
 # Pokemon-Project
 
-This is my fisrt project, i work on it during my studies at Henry bootcamp.
+This is my first project, i work on it during my studies at Henry bootcamp.
 
 You can search pokemons, know more about them and even create your own poke!
 
